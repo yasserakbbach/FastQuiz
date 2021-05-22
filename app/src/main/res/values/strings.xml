@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FastQuiz</string>
+    <string name="kids">Kids</string>
+    <string name="culture">Culture</string>
+    <string name="quizzes">Quizzes</string>
+    <string name="home">Home</string>
+    <string name="your_score">Your score is:</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="email_required">Email required!</string>
+    <string name="password_required">Password required!</string>
+    <string name="invalid_credentials">Invalid credentials</string>
+    <string name="registred_successfully">Registred successfully</string>
+    <string name="logout">Logout</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="prompt_logout">Do you want to logout?</string>
+    <string name="score">Score : %1$d</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="score_updated">Score updated successfully</string>
+    <string name="score_not_updated">Score update failed !</string>
+</resources>

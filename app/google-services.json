@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "706076735429",
+    "project_id": "fastquiz-3f61f",
+    "storage_bucket": "fastquiz-3f61f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706076735429:android:aa08867a10b161db4bfdac",
+        "android_client_info": {
+          "package_name": "com.ressay.fastquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706076735429-1r0dohhr6vemd5alteo3p6fo0bnbuu7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ressay.fastquiz",
+            "certificate_hash": "432ef991d9a07c0868d2e1f6a69e4f495654ce1b"
+          }
+        },
+        {
+          "client_id": "706076735429-kj486b1lflolna359ltepogbdfnjbhev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOs6bCkh1oikMgH5ZDmZ7aYPyoR8doKPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706076735429-kj486b1lflolna359ltepogbdfnjbhev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

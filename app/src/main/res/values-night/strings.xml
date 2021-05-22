@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kids">Kids</string>
+    <string name="culture">Culture</string>
+    <string name="quizzes">Quizzes</string>
+    <string name="home">Home</string>
+    <string name="your_score">Your score is:</string>
+</resources>
